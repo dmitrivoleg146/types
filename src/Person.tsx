@@ -9,7 +9,6 @@ interface Props{
     country?:Country;// put ? in case of not putting country name
  // its a way to describe a shape of object
    cars?:Cars;
-   
 }
     
 
